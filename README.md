@@ -17,21 +17,15 @@ Check out the [Docs](https://docs.foxypool.io/foxy-miner/).
 ## Setup
 
 ```bash
-npm i -g foxy-miner
+npm i -g taducquang/foxy-miner
 foxy-miner
 ```
 
 ## Updating the miner
 
 ```bash
-npm update -g foxy-miner
+npm update -g taducquang/foxy-miner
 ```
-
-## Donate
-
-- BHD: 33fKEwAHxVwnrhisREFdSNmZkguo76a2ML
-- SIGNA: S-BVUD-7VWE-HD7F-6RX4P
-- PP: https://www.paypal.me/felixbrucker
 
 ## Changelog
 
