@@ -1,3 +1,16 @@
+2.6.0 / 2022-02-05
+==================
+
+* Update managed scavenger installs to 1.9.0
+* Fix multi managed miner bootstrapping
+
+2.5.0 / 2022-02-05
+==================
+
+* Require at least node 14
+* Update dependencies
+* Remove bitmart and coinpaprika api
+
 2.4.1 / 2021-07-27
 ==================
 
